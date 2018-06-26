@@ -1,1 +1,1 @@
-#!/usr/bin/python333
+#!/usr/bin/python3
