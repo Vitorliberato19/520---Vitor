@@ -6,11 +6,11 @@ criar um dicionario de frutas e armazenar nome e valor
 from pprint import pprint
 
 frutas = [
-    {'nome' : 'mamao','valor':10,'qt':1},
-    {'nome' : 'laranja','valor':15,'qt':2},
-    {'nome' : 'limao','valor':20,'qt':3},
-    {'nome' : 'maca','valor':25,'qt':4},
-    {'nome' : 'banana','valor':30,'qt':5},
+    {'nome' : 'mamao','valor':10,'qt':11},
+    {'nome' : 'laranja','valor':15,'qt':12},
+    {'nome' : 'limao','valor':20,'qt':13},
+    {'nome' : 'maca','valor':25,'qt':14},
+    {'nome' : 'banana','valor':30,'qt':15},
   
 ]
 

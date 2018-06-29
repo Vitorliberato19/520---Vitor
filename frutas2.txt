@@ -1,0 +1,7 @@
+limao-0
+limao-1
+laranja-2
+maca-3
+banana-4
+pera-5
+maca-6
